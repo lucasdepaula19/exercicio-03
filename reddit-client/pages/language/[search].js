@@ -14,7 +14,7 @@ export default () => {
 
   return (
     <>
-      <h1>{search}</h1>
+      <h1>See {search} language details</h1>
       {languages.map(language =>
         <ul>
           <h3>{language.title}</h3>
