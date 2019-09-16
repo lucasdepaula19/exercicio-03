@@ -29,6 +29,7 @@ const Nav = () => (
         margin: 0;
         font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
           Helvetica, sans-serif;
+          background-color: black;
       }
       nav {
         text-align: center;
